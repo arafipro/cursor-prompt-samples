@@ -37,6 +37,7 @@
 
 	<execution>
     <prompt>コードブロックを使ったモジュールアプローチを使用してください</prompt>
+		<prompt>各ステップの説明は、必ず行なってください</prompt>
   </execution>
 </project_setup>
 ```
