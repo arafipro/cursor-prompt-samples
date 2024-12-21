@@ -50,7 +50,7 @@
         <number>4</number>
         <description>Tailwind CSSが反映されたかを確認</description>
         <action>
-          <command>cd astro-project && bun run dev</command>
+          <command>bun run dev</command>
         </action>
       </step>
     </steps>
