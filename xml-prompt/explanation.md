@@ -1,4 +1,4 @@
-# XML Promptの解説
+# XML Prompt の解説
 
 ## 基本構造
 
@@ -34,21 +34,11 @@
         </details>
       </step>
     </steps>
-
-    <!-- 設定が必要な場合 -->
-    <configuration>
-      <question>設定項目の質問</question>
-      <answer>設定値</answer>
-    </configuration>
-
-    <!-- ベストプラクティス -->
-    <best_practices>
-      <category>カテゴリ名</category>
-      <items>
-        <item>推奨事項</item>
-      </items>
-    </best_practices>
   </instructions>
+
+	<execution>
+    <prompt>コードブロックを使ったモジュールアプローチを使用してください</prompt>
+  </execution>
 </project_setup>
 ```
 
@@ -78,11 +68,6 @@
    - `<command>` タグ内に完全なコマンドを記載
    - バックスラッシュやオプションを明確に区別
    - 一行につき1つのコマンド
-
-5. 設定オプションルール
-   - 対話型設定は `<configuration>` で定義
-   - 質問と回答のペアで記述
-   - 選択肢がある場合はすべて記載
 
 ## 使用上の注意点
 

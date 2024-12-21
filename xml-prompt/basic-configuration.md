@@ -3,7 +3,8 @@
 ```xml
 <project_setup>
   <instructions>
-    <title>{{プロジェクト名/目的}}</title>
+    <title>{{プロジェクト名}}</title>
+    <purpose>{{目的}}</purpose>
     <description>{{全体の概要説明}}</description>
 
     <!-- 前提条件がある場合 -->
@@ -32,20 +33,10 @@
         </details>
       </step>
     </steps>
-
-    <!-- 設定が必要な場合 -->
-    <configuration>
-      <question>{{設定項目の質問}}</question>
-      <answer>{{設定値}}</answer>
-    </configuration>
-
-    <!-- ベストプラクティス -->
-    <best_practices>
-      <category>{{カテゴリ名}}</category>
-      <items>
-        <item>{{推奨事項}}</item>
-      </items>
-    </best_practices>
   </instructions>
+
+	<execution>
+    <prompt>コードブロックを使ったモジュールアプローチを使用してください</prompt>
+  </execution>
 </project_setup>
 ```
