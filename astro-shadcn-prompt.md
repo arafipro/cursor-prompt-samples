@@ -23,6 +23,10 @@
         <name>Tailwind</name>
         <description>ユーティリティファーストのCSSフレームワークで効率的なデザイン構築を支援</description>
       </technology>
+			<technology>
+				<name>shadcn/ui</name>
+				<description>高品質で再利用可能なReactコンポーネントライブラリで、洗練されたUIを迅速に構築可能</description>
+			</technology>
     </tech_stack>
     <steps>
       <step>
