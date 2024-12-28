@@ -10,46 +10,64 @@
 
 ### [Astro+Tailwind (astro-tailwind-ppt.md)](xml/astro-tailwind-ppt.md)
 
+**事前にプロジェクトを作成するディレクトリを準備して、ディレクトリ内で実行してください**
+
+#### 実行内容
+
 - Astroのプロジェクト作成
 - Tailwind CSSを導入
-- Tailwind CSSが反映されたかを確認
-- 注）Astroのプロジェクトを作成するディレクトリを事前に準備してください
+- 簡易サーバーを開く
 
 ### [Astro+shadcn/ui (astro-shadcn-ppt.md)](xml/astro-shadcn-ppt.md)
+
+**事前にプロジェクトを作成するディレクトリを準備して、ディレクトリ内で実行してください**
+
+#### 実行内容
 
 - Astroのプロジェクト作成
 - Tailwind CSSを導入
 - Reactを導入
 - shadcn/uiを導入
-- Tailwind CSSとshadcn/uiが反映されたかを確認
-- 注）Astroのプロジェクトを作成するディレクトリを事前に準備してください
+- 簡易サーバーを開く
 
 ## Markdown Prompt
-
-作成したXML Promptから、ChatGPTなどを使ってMarkdown Promptを作成
 
 ## Markdown Prompt Samples
 
 ### [Astro+Tailwind(astro-tailwind-ppt.md)](markdown/astro-tailwind-ppt.md)
 
+**事前にプロジェクトを作成するディレクトリを準備して、ディレクトリ内で実行してください**
+
+#### 実行内容
+
 - Astroのプロジェクト作成
 - Tailwind CSSを導入
-- Tailwind CSSが反映されたかを確認
-- 注）Astroのプロジェクトを作成するディレクトリを事前に準備してください
+- 簡易サーバーを開く
 
 ### [Astro+shadcn/ui(astro-shadcn-ppt.md)](markdown/astro-shadcn-ppt.md)
+
+**事前にプロジェクトを作成するディレクトリを準備して、ディレクトリ内で実行してください**
+
+#### 実行内容
 
 - Astroのプロジェクト作成
 - Tailwind CSSを導入
 - Reactを導入
 - shadcn/uiを導入
-- Tailwind CSSとshadcn/uiが反映されたかを確認
-- 注）Astroのプロジェクトを作成するディレクトリを事前に準備してください
+- 簡易サーバーを開く
 
-### [React Native/Expo+Expo Router+NativeWind(react-native+expo-router+nativewind-ppt.md)](markdown/react-native+expo-router+nativewind-ppt.md)
+### [React Native/Expo+Expo Router+NativeWind(reactnative+exporouter+nativewind-ppt.md)](markdown/reactnative+exporouter+nativewind-ppt.md)
+
+**事前にプロジェクトを作成するディレクトリを準備して、ディレクトリ内で実行してください**
+
+#### 実行内容
 
 - React Native/Expoのプロジェクト作成
 - Expo Routerを導入
 - NativeWindを導入
 - 簡易サーバーを開く
-- 注）プロジェクトを作成するディレクトリを事前に準備してください
+
+## 免責事項
+
+- 掲載しているプロンプトは、動作を保証しているものではありません。
+- 掲載しているプロンプトは、自己責任で使用してください。
