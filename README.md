@@ -45,3 +45,11 @@
 - shadcn/uiを導入
 - Tailwind CSSとshadcn/uiが反映されたかを確認
 - 注）Astroのプロジェクトを作成するディレクトリを事前に準備してください
+
+### [React Native/Expo+Expo Router+NativeWind(react-native+expo-router+nativewind-ppt.md)](markdown/react-native+expo-router+nativewind-ppt.md)
+
+- React Native/Expoのプロジェクト作成
+- Expo Routerを導入
+- NativeWindを導入
+- 簡易サーバーを開く
+- 注）プロジェクトを作成するディレクトリを事前に準備してください
