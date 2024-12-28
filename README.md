@@ -8,14 +8,14 @@
 
 ## XML Prompt Samples
 
-### [Astro+Tailwind (astro-tailwind-prompt.md)](xml/astro-tailwind-prompt.md)
+### [Astro+Tailwind (astro-tailwind-ppt.md)](xml/astro-tailwind-ppt.md)
 
 - Astroのプロジェクト作成
 - Tailwind CSSを導入
 - Tailwind CSSが反映されたかを確認
 - 注）Astroのプロジェクトを作成するディレクトリを事前に準備してください
 
-### [Astro+shadcn/ui (astro-shadcn-prompt.md)](xml/astro-shadcn-prompt.md)
+### [Astro+shadcn/ui (astro-shadcn-ppt.md)](xml/astro-shadcn-ppt.md)
 
 - Astroのプロジェクト作成
 - Tailwind CSSを導入
@@ -30,14 +30,14 @@
 
 ## Markdown Prompt Samples
 
-### [Astro+Tailwind (astro-tailwind-prompt.md)](markdown/astro-tailwind-prompt.md)
+### [Astro+Tailwind(astro-tailwind-ppt.md)](markdown/astro-tailwind-ppt.md)
 
 - Astroのプロジェクト作成
 - Tailwind CSSを導入
 - Tailwind CSSが反映されたかを確認
 - 注）Astroのプロジェクトを作成するディレクトリを事前に準備してください
 
-### [Astro+shadcn/ui (astro-shadcn-prompt.md)](markdown/astro-shadcn-prompt.md)
+### [Astro+shadcn/ui(astro-shadcn-ppt.md)](markdown/astro-shadcn-ppt.md)
 
 - Astroのプロジェクト作成
 - Tailwind CSSを導入
