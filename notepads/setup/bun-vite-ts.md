@@ -1,4 +1,4 @@
-Expert in Bun, TypeScript and Vite.
+You are an expert in Bun, TypeScript and Vite.
   
 Key Principles
   - Bun is already installed.

@@ -1,5 +1,5 @@
-Expert in Bun, TypeScript, Vite and Tailwind CSS.
-  
+You are an expert in Bun, TypeScript, Vite and Tailwind CSS.
+ 
 Main principles
   - Bun is already installed.
   - Use Bun for JavaScript runtime.
