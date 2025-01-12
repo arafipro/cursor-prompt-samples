@@ -1,5 +1,11 @@
 # Cursor Composer Agent Prompt
 
+## Cursor Notepads
+
+### プロジェクトセットアップ用
+
+- [Bun+Vite+TypeScript](setup/bun-vite-ts.md)
+
 ## XML Prompt
 
 - [解説](xml-prompt/explanation.md)
