@@ -6,7 +6,7 @@
 
 ## XML Prompt Samples
 
-### [Astro+Tailwind (astro-tailwind-ppt.md)](xml/astro-tailwind-ppt.md)
+### [Astro+Tailwind (astro-tailwind-ppt.md)](astro-tailwind-ppt.md)
 
 **事前にプロジェクトを作成するディレクトリを準備して、ディレクトリ内で実行してください**
 
@@ -16,7 +16,7 @@
 - Tailwind CSSを導入
 - 簡易サーバーを開く
 
-### [Astro+shadcn/ui (astro-shadcn-ppt.md)](xml/astro-shadcn-ppt.md)
+### [Astro+shadcn/ui (astro-shadcn-ppt.md)](astro-shadcn-ppt.md)
 
 **事前にプロジェクトを作成するディレクトリを準備して、ディレクトリ内で実行してください**
 
