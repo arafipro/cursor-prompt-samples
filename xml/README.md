@@ -1,8 +1,8 @@
 ## XML Prompt
 
-- [解説](xml-prompt/explanation.md)
-- [基本構成](xml-prompt/basic-configuration.md)
-- [引数の一覧表](xml-prompt/basic-arguments.md)
+- [解説](../xml-prompt/explanation.md)
+- [基本構成](../xml-prompt/basic-configuration.md)
+- [引数の一覧表](../xml-prompt/basic-arguments.md)
 
 ## XML Prompt Samples
 
