@@ -8,3 +8,10 @@
 ### プロジェクトルール
 
 - [Bun+Vite+TypeScript](rules/bun-vite-ts.md)
+
+### プロジェクトティーチング
+
+#### Bun+Vite+TypeScript-Three.js
+
+- [英語](teach/bun-vite-ts-threejs-teach-en.md)
+- [日本語](teach/bun-vite-ts-threejs-teach-ja.md)
