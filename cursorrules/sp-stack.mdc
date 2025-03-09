@@ -1,0 +1,12 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# 技術スタック
+
+- TypeScript
+- React version19
+- React Native
+- expo version52
+- NativeWind version4

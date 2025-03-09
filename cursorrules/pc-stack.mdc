@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# 技術スタック
+
+- TypeScript
+- Next.js version15
+- React version19
+- TailwindCSS version4
