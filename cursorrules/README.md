@@ -2,6 +2,10 @@
 
 バージョン0.46導入
 
+## My Cursor Rules for AI
+
+[cursorrules.mdc](cursorrules.mdc)
+
 ## ファイル命名規則
 
 [file-rules.mdc](file-rules.mdc)
