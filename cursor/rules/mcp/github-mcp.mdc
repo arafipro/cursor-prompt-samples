@@ -1,0 +1,35 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+
+# Github MCP
+
+mcp.jsonを確認してください。
+
+## Issue作成
+
+1. titleは、タスク概要の前にブランチ名のprefixと同じものを付けてください。
+
+```
+ブランチ名のprefix:タスク概要
+```
+
+2. descriptionは、以下の定型文を使用してIssueを作成してください。
+
+```description
+# タスク内容
+- タスク内容を記載してください。
+- タスク内容を記載してください。
+
+# ブランチ名：ブランチ名
+```
+
+3. 直接Issueを作成せずに、ドラフトを作成して確認を求めて、許可を得てください。
+
+## Pull requests作成
+
+1. titleは変更なし。
+2. descriptionに変更内容を記載してください。
+3. 直接Pull requestsを作成せずに、ドラフトを作成して確認を求めて、許可を得てください。
